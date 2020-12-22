@@ -44,3 +44,5 @@ Let's change our cart so that if a product is being added thats already in the c
 Part 8: Store
 
 We now have all the parts we need for our "online store", except the store itself. Let's make that next. Our store has a warehouse that includes all our products. For each 'visit' we have a shopping cart. Every time the customer chooses a product its added to their cart if its available in the warehouse. At the same time, the stock in the warehouse is reduced by one.
+
+       - from MOOC.fi
